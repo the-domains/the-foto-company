@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title><![CDATA[The Foto Company]]></title>
+        <description><![CDATA[The Foto Company]]></description>
+        <link>http://github.com/dylang/node-rss</link>
+        <generator>The Grid</generator>
+        <lastBuildDate>Mon, 30 Nov 2015 05:46:07 GMT</lastBuildDate>
+        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/b2f93c34-d9d3-484d-b7f6-bbb7cac8c8f6.png">]]></description>
+            <link>undefined8c0e29af-d4fe-4997-9814-5d11afb8108d/index.html</link>
+            <guid isPermaLink="false">8c0e29af-d4fe-4997-9814-5d11afb8108d</guid>
+            <pubDate>Mon, 30 Nov 2015 05:46:06 GMT</pubDate>
+        </item>
+    </channel>
+</rss>
