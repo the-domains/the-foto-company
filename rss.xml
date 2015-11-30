@@ -2,14 +2,21 @@
     <channel>
         <title><![CDATA[The Foto Company]]></title>
         <description><![CDATA[The Foto Company]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/the-foto-company/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Mon, 30 Nov 2015 05:46:07 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Mon, 30 Nov 2015 05:46:41 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/the-foto-company/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Getting Started on The Grid]]></title>
+            <description><![CDATA[<article><h1>Getting Started on The Grid</h1><h2>Creating a Site</h2><p>Welcome to The Grid Beta, we’re excited to have you onboard! Here are a few quick tips to get you up and running. </p></article>]]></description>
+            <link>https://thegrid.ai/the-foto-company/getting-started-on-the-grid/index.html</link>
+            <guid isPermaLink="false">50739100-b79b-4290-8546-9693734695ef</guid>
+            <pubDate>Mon, 30 Nov 2015 05:46:06 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[No title]]></title>
             <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/b2f93c34-d9d3-484d-b7f6-bbb7cac8c8f6.png">]]></description>
-            <link>undefined8c0e29af-d4fe-4997-9814-5d11afb8108d/index.html</link>
+            <link>https://thegrid.ai/the-foto-company/8c0e29af-d4fe-4997-9814-5d11afb8108d/index.html</link>
             <guid isPermaLink="false">8c0e29af-d4fe-4997-9814-5d11afb8108d</guid>
             <pubDate>Mon, 30 Nov 2015 05:46:06 GMT</pubDate>
         </item>
